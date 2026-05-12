@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/royalel", "destination": "/api/donation" },
+    { "source": "/royalel/leaderboard", "destination": "/api/leaderboard" }
+  ]
+}
